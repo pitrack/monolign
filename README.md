@@ -17,4 +17,4 @@ These scripts are mostly the same, and were one-off scripts used to generate fig
 
 # Output + Resources
 
-The output of the program will be in `alignments.log` for each iteration, though the best will be in the folder for the last iteration. Each line from the input file will correspond to three sections, an alignment matrix (like the ones in the paper but not sorted by index), a list of dependency arcs, and possible paraphrases/word pairs. These can be found [here](http://cs.jhu.edu/~paxia/monolign.zip).
+The output of the program will be in `alignments.log` for each iteration, though the best will be in the folder for the last iteration. Each line from the input file will correspond to three sections, an alignment matrix (like the ones in the paper but not sorted by index), a list of dependency arcs, and possible paraphrases/word pairs. These can be found [here (92M)](http://cs.jhu.edu/~paxia/papers/monolign.tar.gz) or a [sample (45M)](http://cs.jhu.edu/~paxia/papers/monolign-small.tar.gz).
