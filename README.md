@@ -1,7 +1,7 @@
 # monolign
 _probably better named multilign, but too late now_
 
-Repository for the IJCNLP paper "Deriving Consensus for Multi-Parallel Corpora: an English Bible Study" [[pdf](http://cs.jhu.edu/~paxia/ijcnlp17-paper.pdf)][[slides](http://cs.jhu.edu/~paxia/ijcnlp17-slides.pdf)]
+Repository for the IJCNLP paper "Deriving Consensus for Multi-Parallel Corpora: an English Bible Study" [[pdf](http://cs.jhu.edu/~paxia/papers/ijcnlp17-paper.pdf)][[slides](http://cs.jhu.edu/~paxia/papers/ijcnlp17-slides.pdf)]
 
 # Execution
 
